@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navber here */
+.menu-item{
+    margin-left: 29rem;
+}
+.logo-name{
+    font-size: 35px !important;
+    color: rgb(218, 118, 118) !important;
+    font-weight: 700;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 700;
+    color: black !important;
+   
+    
+}
+.active{
+    color: rgb(191, 38, 38)!important;
+}
+.btn-login{
+    padding: 0px 40px 0px 40px !important;
+    border-radius: 12px !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color:white!important;
+}
+/* profile menu section here */
+.menu-profile{
+    border: 1px solid rgb(218, 118, 118);
+    padding: 8px 8px;
+    border-radius: 25px;
+    background-color: rgb(244, 191, 191);
+    color: rgb(41, 39, 39);
+
+}
+.all-menu{
+    padding: 8px 8px;
+    border-radius: 25px;
+   
+    color: rgb(84, 84, 84);
+
+}
+.menu-bg{
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
+/* profile img section here */
+.bod{
+   border-right: 2px solid rgb(137, 133, 133);
+}
+/* footer section here */
+.footer-bg{
+    background-color: #05162E;
+
+}
+.footer-pading{
+    margin-top: 6rem;
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+.footer-right-content{
+    padding-top:4rem;
+}

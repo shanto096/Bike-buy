@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navber here */
+.menu-item{
+    margin-left: 29rem;
+}
+.logo-name{
+    font-size: 35px !important;
+    color: rgb(218, 118, 118) !important;
+    font-weight: 700;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 700;
+    color: black !important;
+   
+    
+}
+.active{
+    color: rgb(191, 38, 38)!important;
+}
+.btn-login{
+    padding: 0px 40px 0px 40px !important;
+    border-radius: 12px !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color:white!important;
+}
+
+/* hero icon here */
+.fa-facebook-f{
+    
+    padding: 10px 15px;
+    background-color: rgb(210, 239, 241);
+    border-radius: 50%;
+    font-size: 25px;
+    color: blue;
+
+}
+.fa-twitter{
+    padding: 10px 11px;
+    background-color: rgb(210, 239, 241);
+    border-radius: 50%;
+    font-size: 25px;
+    color: rgb(7, 221, 244);
+ 
+}
+.fa-instagram{
+    padding: 10px 11px;
+    background-color: rgb(210, 239, 241);
+    border-radius: 50%;
+    font-size: 25px;
+    color: rgb(244, 140, 192);
+  
+}
+.table-contant{
+    border: 2px solid rgb(227, 224, 224);
+    padding: 10px;
+    border-radius: 7px;
+    overflow-y: scroll;
+    overflow: scroll;
+    height: 400px;
+}
+::-webkit-scrollbar {
+    width: 20px;
+  }
+.table-scr{
+    border-left: 3px solid rgb(104, 103, 103);
+}
+.table-scr-single{
+    border-left: 1px solid red;
+}
+
+
+
+
+
+/* footer section here */
+.footer-bg{
+    background-color: #05162E;
+    margin-top: 40rem;
+
+}
+.footer-pading{
+    margin-top: 6rem;
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+.footer-right-content{
+    padding-top:4rem;
+}

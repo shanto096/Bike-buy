@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navber here */
+.menu-item{
+    margin-left: 30rem;
+}
+.logo-name{
+    font-size: 35px !important;
+    color: rgb(218, 118, 118) !important;
+    font-weight: 700;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 700;
+    color: black !important;
+   
+    
+}
+.active{
+    color: rgb(191, 38, 38)!important;
+}
+.btn-login{
+    padding: 0px 40px 0px 40px !important;
+    border-radius: 12px !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color:white!important;
+}
+/* Hero section here */
+.h{
+    margin-bottom: 30rem;
+ /* hero right content  */
+}
+.img-hero{
+ position: absolute;
+ 
+}
+.img-title{
+   position: relative;
+   top: 26rem;
+}
+/* hero left content */
+.con-reading{
+    border-bottom: 2px solid rgb(219, 216, 216);
+    width: 90%;
+}
+.all-card{
+    background-color: #f9f9f9;
+}
+/* footer section here */
+.footer-bg{
+    margin-top: 5rem;
+    background-color: #05162E;
+
+}
+.footer-pading{
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+.footer-right-content{
+    padding-top:4rem;
+}
